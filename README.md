@@ -36,4 +36,4 @@ Dachepalli Sai Sri
 
 Applied Computer Science
 
-![Hosted Image](https://www.pexels.com/photo/beagle-puppy-1345191/)
+![vscode Image](https://github.com/dachepally/aboutme/raw/master/Missouri.jpeg)
