@@ -8,7 +8,7 @@ I am Sai Sri Dachepalli. I came from Hyderabad, India. Currelty, I am pursuing m
 
 ## About
 
-This repository is to tell about myself and it also includes my first web page.
+This repository is to tell about myself and it also includes Tools and Resources that I used to create my first web page.
 
 ## Recommended Tools
 
