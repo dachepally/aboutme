@@ -28,7 +28,7 @@ This repository is to tell about myself and it also includes Tools and Resources
 
 [GitHub](https://help.github.com/articles/about-wikis/)
 
-[Notepad++](https://help.github.com/articles/about-wikis/)
+[Notepad++](https://en.wikipedia.org/wiki/Notepad%2B%2B)
 
 ## Contributors
 
