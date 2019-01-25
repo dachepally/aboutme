@@ -16,7 +16,7 @@ This repository is to tell about myself and it also includes my first web page.
 
 1. [Tortoise Git](https://tortoisegit.org/) - This is to mention the status of git working trees and files.
 
-1. [Visual Studio](1. [Github](https://github.com/dachepally)) - visual studio code is a source code editor whih is developed by Microsoft.
+1. [Visual Studio](https://code.visualstudio.com/) - visual studio code is a source code editor whih is developed by Microsoft.
 
 1. Notepad++ - Notepad++ is a text editor. It allows working with multiple open files in a single window. 
 
