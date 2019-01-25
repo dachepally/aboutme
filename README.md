@@ -24,7 +24,7 @@ This repository is to tell about myself and it also includes my first web page.
 
 [Viasual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
-[Gi]t(https://en.wikipedia.org/wiki/Git)
+[Git](https://en.wikipedia.org/wiki/Git)
 
 [GitHub](https://help.github.com/articles/about-wikis/)
 
