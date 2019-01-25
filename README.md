@@ -36,4 +36,4 @@ Dachepalli Sai Sri
 
 Applied Computer Science
 
-![Pet](https://www.pexels.com/photo/beagle-puppy-1345191/)
+![Hosted Image](https://www.pexels.com/photo/beagle-puppy-1345191/)
