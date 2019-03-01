@@ -16,6 +16,9 @@ body{
     margin-top: 50px;
     border-radius: 50%;
 }
+.clear_fix{
+    clear: both;
+}
 
 .about{
     margin-top: 90px;
